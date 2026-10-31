@@ -1,0 +1,11 @@
+{
+  "name": "PulseAid — Emergency First Aid Companion",
+  "description": "High-contrast, offline-first, voice-guided emergency first aid wizard with Red Cross / St John Ambulance aligned protocols, 110 BPM CPR metronome, and optional photo/text protocol specialisation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
